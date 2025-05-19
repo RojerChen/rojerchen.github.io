@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: jekyll-theme-minimal
 title: 歡迎來到我的部落格
 ---
 
