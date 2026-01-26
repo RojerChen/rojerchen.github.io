@@ -1,0 +1,1 @@
+import getReadingTime from"reading-time";import{toString}from"mdast-util-to-string";export function remarkReadingTime(){return function(t,{data:e}){const i=toString(t),r=getReadingTime(i);e.astro.frontmatter.minutesRead=r.text}}

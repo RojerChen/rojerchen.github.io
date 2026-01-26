@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rojerchen.github.io/sitemap-index.xml
+Host: rojerchen.github.io
